@@ -1,0 +1,9 @@
+<launch>
+
+    <node name="object_detection"
+          pkg="image_processing"
+          type="object_detection.py">
+
+    </node>
+
+</launch>
